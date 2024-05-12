@@ -1,0 +1,17 @@
+C:\Users\Admin\Downloads\coding stuff\jokeGen\jokeGen\bin\Debug\net8.0-windows\jokeGen.exe
+C:\Users\Admin\Downloads\coding stuff\jokeGen\jokeGen\bin\Debug\net8.0-windows\jokeGen.deps.json
+C:\Users\Admin\Downloads\coding stuff\jokeGen\jokeGen\bin\Debug\net8.0-windows\jokeGen.runtimeconfig.json
+C:\Users\Admin\Downloads\coding stuff\jokeGen\jokeGen\bin\Debug\net8.0-windows\jokeGen.dll
+C:\Users\Admin\Downloads\coding stuff\jokeGen\jokeGen\bin\Debug\net8.0-windows\jokeGen.pdb
+C:\Users\Admin\Downloads\coding stuff\jokeGen\jokeGen\obj\Debug\net8.0-windows\jokeGen.Form1.resources
+C:\Users\Admin\Downloads\coding stuff\jokeGen\jokeGen\obj\Debug\net8.0-windows\jokeGen.Properties.Resources.resources
+C:\Users\Admin\Downloads\coding stuff\jokeGen\jokeGen\obj\Debug\net8.0-windows\jokeGen.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\coding stuff\jokeGen\jokeGen\obj\Debug\net8.0-windows\jokeGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\coding stuff\jokeGen\jokeGen\obj\Debug\net8.0-windows\jokeGen.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\coding stuff\jokeGen\jokeGen\obj\Debug\net8.0-windows\jokeGen.AssemblyInfo.cs
+C:\Users\Admin\Downloads\coding stuff\jokeGen\jokeGen\obj\Debug\net8.0-windows\jokeGen.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\coding stuff\jokeGen\jokeGen\obj\Debug\net8.0-windows\jokeGen.dll
+C:\Users\Admin\Downloads\coding stuff\jokeGen\jokeGen\obj\Debug\net8.0-windows\refint\jokeGen.dll
+C:\Users\Admin\Downloads\coding stuff\jokeGen\jokeGen\obj\Debug\net8.0-windows\jokeGen.pdb
+C:\Users\Admin\Downloads\coding stuff\jokeGen\jokeGen\obj\Debug\net8.0-windows\jokeGen.genruntimeconfig.cache
+C:\Users\Admin\Downloads\coding stuff\jokeGen\jokeGen\obj\Debug\net8.0-windows\ref\jokeGen.dll
